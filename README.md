@@ -1,6 +1,6 @@
 # Vitor Saedio
 
-**`Desenvolvedoror`**
+**`Desenvolvedor`**
 
 Me chamo João Vitor Saedio Gomes, tenho 23 anos e sou natural de São Paulo. Atualmente, curso Engenharia de Software com foco em desenvolvimento e IA, buscando evoluir constantemente nas áreas de desenvolvimento, tecnologia e inteligência artificial.
 Tenho conhecimento em hardware, sistemas operacionais Windows e Linux (Ubunto), Python e desenvolvimento Full Stack, além de grande interesse em criar soluções modernas e funcionais para o dia a dia. Também venho desenvolvendo projetos próprios para aprimorar minhas habilidades práticas em programação, design e desenvolvimento.
