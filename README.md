@@ -37,7 +37,6 @@
 ### Estatísticas de Contribuição
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=saedio&show_icons=false&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" height="150" alt="Estatísticas do GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saedio&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" height="150" alt="Linguagens mais utilizadas" />
 </p>
 
