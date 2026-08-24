@@ -1,6 +1,6 @@
 # João Vitor Saedio Gomes
 
-**Engenheiro de Software | Full-Stack & Inteligência Artificial**
+**Engenheiro de Software | Backend Java & Python**
 
 ---
 
@@ -8,7 +8,7 @@
 
 - Graduando em Engenharia de Software em São Paulo.
 - Foco em desenvolvimento Full-Stack e integração de APIs.
-- Conhecimento em ambientes Linux/Ubuntu, arquitetura de software e hardware.
+- Conhecimento em ambientes Linux/Ubuntu, arquitetura de software, desenvolvimento e segurança.
 - Desenvolvimento de projetos autorais focados em boas práticas de código, padrões de projeto e design moderno.
 
 ---
@@ -31,14 +31,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white)
-
----
-
-### Estatísticas de Contribuição
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saedio&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" height="150" alt="Linguagens mais utilizadas" />
-</p>
 
 ---
 
