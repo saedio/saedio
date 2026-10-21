@@ -1,40 +1,21 @@
 # João Vitor Saedio Gomes
 
-**Engenheiro de Software | Backend Java & Python**
+**Estudante de Engenharia de Software · último semestre · São Paulo, Brasil**
 
----
+Tenho desenvolvido projetos acadêmicos e pessoais para praticar desenvolvimento backend e aplicações web. Meu foco atual está em APIs REST, organização de software e construção de soluções claras e úteis.
 
-### Resumo Profissional
+## Projetos em destaque
 
-- Graduando em Engenharia de Software em São Paulo.
-- Foco em desenvolvimento Full-Stack e integração de APIs.
-- Conhecimento em ambientes Linux/Ubuntu, arquitetura de software, desenvolvimento e segurança.
-- Desenvolvimento de projetos autorais focados em boas práticas de código, padrões de projeto e design moderno.
+- [Sis Barber](https://github.com/saedio/sis_barber) — aplicação web com frontend e backend em TypeScript.
+- [Gerador de Senhas](https://github.com/saedio/gerador-de-senhas) — aplicação web em Python e Flask para gerenciamento de senhas.
+- [User API com Spring Boot](https://github.com/saedio/userapi-spring-boot-user-crud) — API REST de usuários com operações CRUD, Java 17 e Spring Boot.
+- [Portfólio](https://github.com/saedio/portfolio) — site pessoal feito com HTML, CSS e JavaScript.
 
----
+## Tecnologias usadas nos projetos
 
-### Competências Técnicas
+Java · Spring Boot · Python · Flask · TypeScript · JavaScript · HTML · CSS · Git
 
-**Linguagens & Frameworks**
+## Contato
 
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
-
-**Infraestrutura & Ferramentas**
-
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white)
-
----
-
-### Contato Profissional
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovitorsaedio/)
-[![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:vitorsaedio1219@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/vitor-saedio-243828330/)
+- [E-mail](mailto:vitorsaedio1219@gmail.com)
