@@ -14,7 +14,8 @@ Tenho desenvolvido projetos acadêmicos e pessoais para praticar desenvolvimento
 ## Tecnologias principais
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,flask,ts,react,postgres,git" alt="Java, Spring Boot, Python, Flask, TypeScript, React, PostgreSQL e Git" />
+  <img src="https://skillicons.dev/icons?i=python,java,linux,mint,ubuntu,mysql,postgres&perline=7" alt="Python, Java, Linux, Linux Mint, Ubuntu, MySQL e PostgreSQL" />
+  <span title="Redes" style="font-size: 40px; vertical-align: middle;">🌐</span>
 </p>
 
 ## Contato
