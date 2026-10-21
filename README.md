@@ -15,7 +15,7 @@ Tenho desenvolvido projetos acadêmicos e pessoais para praticar desenvolvimento
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,linux,mint,ubuntu,mysql,postgres&perline=7" alt="Python, Java, Linux, Linux Mint, Ubuntu, MySQL e PostgreSQL" />
-  <span title="Redes" style="font-size: 40px; vertical-align: middle;">🌐</span>
+  <img src="https://api.iconify.design/mdi/lan.svg?color=%23c9d1d9" width="48" height="48" alt="Redes" />
 </p>
 
 ## Contato
