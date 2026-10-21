@@ -11,9 +11,11 @@ Tenho desenvolvido projetos acadêmicos e pessoais para praticar desenvolvimento
 - [User API com Spring Boot](https://github.com/saedio/userapi-spring-boot-user-crud) — API REST de usuários com operações CRUD, Java 17 e Spring Boot.
 - [Portfólio](https://github.com/saedio/portfolio) — site pessoal feito com HTML, CSS e JavaScript.
 
-## Tecnologias usadas nos projetos
+## Tecnologias principais
 
-Java · Spring Boot · Python · Flask · TypeScript · JavaScript · HTML · CSS · Git
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,flask,ts,react,postgres,git" alt="Java, Spring Boot, Python, Flask, TypeScript, React, PostgreSQL e Git" />
+</p>
 
 ## Contato
 
