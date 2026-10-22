@@ -6,8 +6,8 @@ Tenho desenvolvido projetos acadêmicos e pessoais para praticar desenvolvimento
 
 ## Projetos em destaque
 
-- [Sis Barber](https://github.com/saedio/sis_barber) — aplicação web com frontend e backend em TypeScript.
-- [Gerador de Senhas](https://github.com/saedio/gerador-de-senhas) — aplicação web em Python e Flask para gerenciamento de senhas.
+- [Sis Barber](https://github.com/saedio/sis_barber) — Aplicação web com frontend e backend em TypeScript para uma barbearia real.
+- [Gerador de Senhas](https://github.com/saedio/gerador-de-senhas) — Aplicação web em Python e Flask para gerenciamento de senhas.
 - [User API com Spring Boot](https://github.com/saedio/userapi-spring-boot-user-crud) — API REST de usuários com operações CRUD, Java 17 e Spring Boot.
 
 ## Tecnologias
