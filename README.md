@@ -1,6 +1,7 @@
 # João Vitor Saedio Gomes
 
 **Engenheiro de Software · São Paulo, Brasil**
+
 Tenho desenvolvido projetos acadêmicos e pessoais para praticar desenvolvimento backend e aplicações web. Meu foco atual está em APIs REST, organização de software e construção de soluções claras e úteis.
 
 ## Projetos em destaque
