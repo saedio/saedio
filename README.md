@@ -1,23 +1,90 @@
-# João Vitor Saedio Gomes
+<!-- SAEDIO | DEVELOPER TERMINAL -->
 
-**Engenheiro de Software · São Paulo, Brasil**
+<div align="center">
 
-Tenho desenvolvido projetos acadêmicos e pessoais para praticar desenvolvimento backend e aplicações web. Meu foco atual está em APIs REST, organização de software e construção de soluções claras e úteis.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:101114,50:292018,100:FF982C&height=3" width="100%"/>
 
-## Projetos em destaque
+</div>
 
-- [Sis Barber](https://github.com/saedio/sis_barber) — Aplicação web com frontend e backend em TypeScript para uma barbearia real.
-- [Gerador de Senhas](https://github.com/saedio/gerador-de-senhas) — Aplicação web em Python e Flask para gerenciamento de senhas.
-- [User API com Spring Boot](https://github.com/saedio/userapi-spring-boot-user-crud) — API REST de usuários com operações CRUD, Java 17 e Spring Boot.
+<table width="100%" border="0">
+<tr>
+<td>
 
-## Tecnologias
+```bash
+┌──────────────────────────────────────────────┐
+│  ●  ●  ●                 SAEDIO TERMINAL     │
+└──────────────────────────────────────────────┘
+```
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,linux,mint,ubuntu,mysql,postgres&perline=7" alt="Python, Java, Linux, Linux Mint, Ubuntu, MySQL e PostgreSQL" />
-  <img src="https://api.iconify.design/mdi/lan.svg?color=%23c9d1d9" width="48" height="48" alt="Redes" />
-</p>
+</td>
+</tr>
+</table>
 
-## Contato
+### <span style="color:#FFAA33">vitor@saedio:~$</span> whoami
 
-- [LinkedIn](https://www.linkedin.com/in/vitor-saedio-243828330/)
-- [E-mail](mailto:vitorsaedio1219@gmail.com)
+# João Vitor Saedio
+
+### <span style="color:#FF982C">Engenheiro de Software em formação</span>
+
+Profissional de TI apaixonado por tecnologia, desenvolvimento de software e inteligência artificial. Construindo soluções, explorando novas tecnologias e transformando ideias em código.
+
+---
+
+### `01 // PROFILE.JSON`
+
+```json
+{
+  "nome": "João Vitor Saedio",
+  "ocupacao": "Analista de TI",
+  "empresa": "Prodam",
+  "formacao": "Engenharia de Software",
+  "foco": [
+    "Backend Development",
+    "Full Stack Development",
+    "Artificial Intelligence"
+  ],
+  "explorando": [
+    "LLMs",
+    "RAG",
+    "Cloud Computing"
+  ]
+}
+```
+
+### `02 // TECHNOLOGIES`
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/Python-171717?style=flat-square&logo=python&logoColor=FFAA33"/>
+<img src="https://img.shields.io/badge/Java-171717?style=flat-square&logo=openjdk&logoColor=FFAA33"/>
+<img src="https://img.shields.io/badge/Spring_Boot-171717?style=flat-square&logo=springboot&logoColor=FFAA33"/>
+<img src="https://img.shields.io/badge/JavaScript-171717?style=flat-square&logo=javascript&logoColor=FFAA33"/>
+<img src="https://img.shields.io/badge/SQL-171717?style=flat-square&logo=postgresql&logoColor=FFAA33"/>
+<img src="https://img.shields.io/badge/Docker-171717?style=flat-square&logo=docker&logoColor=FFAA33"/>
+<img src="https://img.shields.io/badge/Linux-171717?style=flat-square&logo=linux&logoColor=FFAA33"/>
+<img src="https://img.shields.io/badge/Git-171717?style=flat-square&logo=git&logoColor=FFAA33"/>
+
+</div>
+
+### `03 // CONNECT`
+
+<div align="left">
+
+<a href="https://github.com/saedio">
+<img src="https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=FFAA33"/>
+</a>
+<a href="https://linkedin.com/in/joaovitorsaedio/">
+<img src="https://img.shields.io/badge/LinkedIn-171717?style=for-the-badge&logo=linkedin&logoColor=FFAA33"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+**`vitor@saedio:~$`** BUILD. LEARN. INNOVATE.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF982C,100:101114&height=3" width="100%"/>
+
+</div>
