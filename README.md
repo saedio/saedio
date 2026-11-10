@@ -16,7 +16,8 @@ CST Inteligencia Artifical · UBC Cruzeiro do Sul.
 
 **Bancos de dados**
 
-<img src="https://skillicons.dev/icons?i=mongodb" alt="bancos" /> &nbsp; SQL
+<img src="https://skillicons.dev/icons?i=mongodb" alt="bancos" /> &nbsp; ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
+
 
 **Infra, DevOps e ferramentas**
 
@@ -26,8 +27,22 @@ CST Inteligencia Artifical · UBC Cruzeiro do Sul.
 
 <img src="https://skillicons.dev/icons?i=grafana" alt="monitoramento" /> &nbsp; ![Zabbix](https://img.shields.io/badge/Zabbix-CC2936?style=flat-square&logo=zabbix&logoColor=white)
 
-**IA**
+**IA e Automação**
 
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=flat-square&logo=anthropic&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
+
+**Dados e Machine Learning**
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 
