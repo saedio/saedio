@@ -1,43 +1,71 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=João%20Vitor%20Saedio&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Software%20Engineering%20%C2%B7%20Backend%20%C2%B7%20Data%20%26%20AI&descSize=16&descAlignY=58" width="100%" alt="header" />
+
 <div align="center">
 
-[Seu Nome]
+[![Portfolio](https://img.shields.io/badge/Portf%C3%B3lio-203a43?style=for-the-badge&logo=githubpages&logoColor=white)](https://saedio.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaovitorsaedio/)
+[![Email](https://img.shields.io/badge/Email-2c5364?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorsaedio1219@gmail.com)
 
-Desenvolvedor Web — interfaces limpas, código claro, produtos que funcionam.
-<br>
-
-Trabalho com desenvolvimento web, do layout ao deploy, com foco em front-end e integrações com APIs REST. No momento, aprofundando estudos em testes automatizados, acessibilidade e arquitetura de aplicações — sempre com Git no dia a dia e atenção à qualidade do código.
-Tecnologias
-
-Linguagens
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-FFFFFF?style=flat-square&logo=javascript&logoColor=000000" /><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" /></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TypeScript-FFFFFF?style=flat-square&logo=typescript&logoColor=000000" /><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" /></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=python&logoColor=000000" /><img alt="Python" src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" /></picture>
-
-Front-end
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React-FFFFFF?style=flat-square&logo=react&logoColor=000000" /><img alt="React" src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" /></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Next.js-FFFFFF?style=flat-square&logo=nextdotjs&logoColor=000000" /><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HTML5-FFFFFF?style=flat-square&logo=html5&logoColor=000000" /><img alt="HTML5" src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white" /></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CSS3-FFFFFF?style=flat-square&logo=css3&logoColor=000000" /><img alt="CSS3" src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white" /></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Tailwind%20CSS-FFFFFF?style=flat-square&logo=tailwindcss&logoColor=000000" /><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-000000?style=flat-square&logo=tailwindcss&logoColor=white" /></picture>
-
-Back-end
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Node.js-FFFFFF?style=flat-square&logo=nodedotjs&logoColor=000000" /><img alt="Node.js" src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white" /></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Express-FFFFFF?style=flat-square&logo=express&logoColor=000000" /><img alt="Express" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=flat-square&logo=postgresql&logoColor=000000" /><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" /></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MongoDB-FFFFFF?style=flat-square&logo=mongodb&logoColor=000000" /><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white" /></picture>
-
-Ferramentas
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Git-FFFFFF?style=flat-square&logo=git&logoColor=000000" /><img alt="Git" src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" /></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-FFFFFF?style=flat-square&logo=github&logoColor=000000" /><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" /></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Docker-FFFFFF?style=flat-square&logo=docker&logoColor=000000" /><img alt="Docker" src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white" /></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Figma-FFFFFF?style=flat-square&logo=figma&logoColor=000000" /><img alt="Figma" src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white" /></picture>
-Contato
-
-<a href="https://linkedin.com/in/seu-usuario"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-FFFFFF?style=flat-square&logo=linkedin&logoColor=000000" /><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" /></picture></a>
-<a href="mailto:seu-email@exemplo.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/E--mail-FFFFFF?style=flat-square&logo=gmail&logoColor=000000" /><img alt="E-mail" src="https://img.shields.io/badge/E--mail-000000?style=flat-square&logo=gmail&logoColor=white" /></picture></a>
-<a href="https://seusite.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Portf%C3%B3lio-FFFFFF?style=flat-square&logo=googlechrome&logoColor=000000" /><img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=flat-square&logo=googlechrome&logoColor=white" /></picture></a>
 </div>
+
+---
+
+### Sobre
+
+Estudante de Engenharia de Software (formação em dezembro de 2026) e Analista de TI e QA na **Prodam**. Construo APIs e sistemas backend com Java e Python, com foco em código limpo, testes e observabilidade. Estudo Inteligência Artificial para aplicar em automação e dados.
+
+Objetivo: atuar como desenvolvedor backend.
+
+### Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,js,postgres,fastapi,flask,docker,git,github,linux,grafana,postman&perline=12" alt="stack" />
+
+</div>
+
+| Área | Tecnologias |
+|---|---|
+| Linguagens | Java, Python, SQL, JavaScript |
+| Backend | FastAPI, Flask, REST APIs |
+| Infra e ferramentas | Docker, Git, Linux, Postman |
+| Monitoramento | Zabbix, Grafana |
+| Design | UX/UI |
+
+### Projetos em destaque
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/saedio/java-bank-system">Java Bank System</a></h4>
+      Sistema bancário com orientação a objetos e versionamento com Git.<br><br>
+      <code>Java</code> <code>OOP</code> <code>Git</code>
+    </td>
+    <td width="33%" valign="top">
+      <h4>Big-O Visualizer</h4>
+      Visualização da complexidade de algoritmos e estruturas de dados.<br><br>
+      <code>Python</code> <code>Algoritmos</code>
+    </td>
+    <td width="33%" valign="top">
+      <h4>Backend & REST APIs</h4>
+      APIs com persistência em banco relacional e documentação.<br><br>
+      <code>FastAPI</code> <code>Flask</code> <code>SQL</code>
+    </td>
+  </tr>
+</table>
+
+### Experiência
+
+**Analista de TI e QA, Prodam** (2025 – atual)
+Testes, análise de incidentes, documentação técnica, SQL e monitoramento com Zabbix e Grafana.
+
+### Estatísticas
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=saedio&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saedio&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="top languages" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt="footer" />
